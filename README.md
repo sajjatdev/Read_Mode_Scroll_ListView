@@ -1,5 +1,5 @@
 # Read Mode Scroll ListView
-when read some in listview inside then is shouldn't scrolling
+when read some on listview inside then is shouldn't scrolling
 
 ``` dart
 
